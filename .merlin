@@ -5,6 +5,8 @@ B /home/ayaanqui/work/dictybase/playground/rescript-todo-app/node_modules/rescri
 FLG -w +a-4-9-20-40-41-42-50-61-102
 S /home/ayaanqui/work/dictybase/playground/rescript-todo-app/node_modules/@rescript/react/lib/ocaml
 B /home/ayaanqui/work/dictybase/playground/rescript-todo-app/node_modules/@rescript/react/lib/ocaml
+S bindings
+B lib/bs/bindings
 S pages
 B lib/bs/pages
 ####BSB GENERATED: NO EDIT}
