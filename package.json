@@ -8,12 +8,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@rescript/react": "^0.10.3",
     "next": "12.0.7",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
   "devDependencies": {
     "eslint": "8.4.1",
-    "eslint-config-next": "12.0.7"
+    "eslint-config-next": "12.0.7",
+    "rescript": "^9.1.4"
   }
 }
