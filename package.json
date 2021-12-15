@@ -5,7 +5,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "re:build": "rescript build",
+    "re:start": "rescript build -w"
   },
   "dependencies": {
     "@rescript/react": "^0.10.3",
