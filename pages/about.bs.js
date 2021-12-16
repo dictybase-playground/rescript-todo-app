@@ -4,7 +4,9 @@ import * as React from "react";
 import Link from "next/link";
 
 function About$default(Props) {
-  return React.createElement(React.Fragment, undefined, React.createElement("h1", undefined, "About page"), React.createElement("p", undefined, React.createElement(Link, {
+  return React.createElement(React.Fragment, undefined, React.createElement("h1", {
+                  className: "text-3xl font-bold underline"
+                }, "About page"), React.createElement("p", undefined, React.createElement(Link, {
                       href: "/",
                       children: "Home"
                     })));
